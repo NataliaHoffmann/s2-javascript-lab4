@@ -1,0 +1,37 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2025,
+    "active": true,
+    "topFlavours": [{
+        "name": "Chocolate Mint",
+        "calories": 290,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
+        "image": "https://github.com/NataliaHoffmann/s2-javascript-lab4/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 240,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+        "image": "https://github.com/NataliaHoffmann/s2-javascript-lab4/images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry Syrup", "Strawberry Pieces", "Vanilla Base", "Chocolate Syrup"],
+        "image": "https://github.com/NataliaHoffmann/s2-javascript-lab4/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Fresh Lemonade",
+        "calories": 100,
+        "type": "ice-cream",
+        "ingredients": ["Lemonade", "Yogurt", "Vanilla Base", "Milk"],
+        "image": "https://github.com/NataliaHoffmann/s2-javascript-lab4/images/strawberry-sprinkle.svg"
+    },  {
+        "name": "Cookies and cream",
+        "calories": 250,
+        "type": "ice-cream",
+        "ingredients": ["Cookies", "Milk", "Vanilla Base", "Chocolate pieces"],
+        "image": "https://github.com/NataliaHoffmann/s2-javascript-lab4/images/strawberry-sprinkle.svg"
+    }]
+}
